@@ -26,11 +26,12 @@
   1. Hospitality Domain: [github hospitality domain] (https://tejasp1197.github.io/Hopitality_domain_PBreport-2023/)
    ![Portfolio Overview](Hospitality domain.jpg)
 
-  2. HR Data analytics report: [github HR dept. analytics] (https://tejasp1197.github.io/HR_dataanalytics_PBreport2023/)
- ![Portfolio Overview](HR analytics dashboard.jpg)
+  3. HR Data analytics report: [github HR dept. analytics] (https://tejasp1197.github.io/HR_dataanalytics_PBreport2023/)
+   ![Portfolio Overview](HR analytics dashboard.jpg)
 
-  3. Sales dept. PowerBI report: [github Sales data analytics]
-  ![Portfolio Overview](Sales Dashboard.jpg)
+  5. Sales dept. PowerBI report: [github Sales data analytics]
+   ![Portfolio Overview](Sales Dashboard.jpg)
+     
 - **Data Management Project as a Part of Master Thesis** | Currently working on data management & visualisation Project with Volkswagen Nutzfahrzeuge where I am working on Sharepoint, PowerApps & PowerBI.
 - **SQL Projects** | 
 
