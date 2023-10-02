@@ -18,6 +18,11 @@
 - **M.B.A., Operational Excellence**	| Hochschule Hof university of applied sciences, Germany (_October 2021 to Present_)	 			        		
 - **B.E., Mechanical Engineering** | The University of Mumbai, India. (_July 2019_)
 
+## Projects					       		
+- **Data analysis Projects on PowerBI**	| I have done 3 Projects, 2 business departments: Sales, HR & 1 for Hospitality sector.
+- **Data Management Project as a Part of Master Thesis** | Currently working on data management & visualisation Project with Volkswagen Nutzfahrzeuge where I am working on Sharepoint, PowerApps & PowerBI.
+- **SQL Projects** | The University of Mumbai, India. (_July 2019_)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
