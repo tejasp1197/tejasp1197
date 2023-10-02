@@ -1,8 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Tejas Patil</h1>
+<h1 align="center"> Hallo 👋, I'm Tejas Patil</h1>
 <h3 align="center">A passionate Supply chain & Data Analytics Enthusiast from India, doing masters in Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasp1197&label=Profile%20views&color=0e75b6&style=flat" alt="tejasp1197" /> </p>
+
+- 🎓 Technical Skills: **Power-BI, PowerApps, Sharepoint, SQL, MS-Excel**
 
 - 🌱 I’m currently learning **SQL**
 
@@ -12,16 +14,19 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thetejaspatil/](https://www.linkedin.com/in/thetejaspatil/)
 
-- Technical Skills: **Power-BI, PowerApps, Sharepoint, SQL, MS-Excel**
 
-## Education					       		
+
+## Education 👨🏼‍🎓					       		
 - **M.B.A., Operational Excellence**	| Hochschule Hof university of applied sciences, Germany (_October 2021 to Present_)	 			        		
 - **B.E., Mechanical Engineering** | The University of Mumbai, India. (_July 2019_)
 
-## Projects					       		
+## Projects 👨🏼‍💻					       		
 - **Data analysis Projects on PowerBI**	| I have done 3 Projects, 2 business departments: Sales, HR & 1 for Hospitality sector.
+  1. Hospitality Domain: [github hospitality domain] (https://tejasp1197.github.io/Hopitality_domain_PBreport-2023/)
+  2. HR Data analytics report: [github HR dept. analytics] (https://tejasp1197.github.io/HR_dataanalytics_PBreport2023/)
+  3. Sales dept. PowerBI report: [github Sales data analytics] 
 - **Data Management Project as a Part of Master Thesis** | Currently working on data management & visualisation Project with Volkswagen Nutzfahrzeuge where I am working on Sharepoint, PowerApps & PowerBI.
-- **SQL Projects** | The University of Mumbai, India. (_July 2019_)
+- **SQL Projects** | 
 
 
 <h3 align="left">Connect with me:</h3>
