@@ -1,6 +1,7 @@
 
 <h1 align="center"> Hallo 👋, I'm Tejas Patil</h1>
 <h3 align="center">A passionate Supply chain & Data Analytics Enthusiast from India, doing masters in Germany.</h3>
+<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">![image](https://github.com/tejasp1197/tejasp1197/assets/140860360/7df8a28c-4381-4ed2-8148-9bb01b2459c1)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasp1197&label=Profile%20views&color=0e75b6&style=flat" alt="tejasp1197" /> </p>
 
