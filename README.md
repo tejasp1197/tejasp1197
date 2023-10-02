@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fsupply-chain-management.html&psig=AOvVaw1uumYRYvFs3BHtFffiLJs1&ust=1696326734283000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJic5NWL14EDFQAAAAAdAAAAABAJ)](https://tejasp1197.io) 
+
 <h1 align="center">Hi 👋, I'm Tejas Patil</h1>
 <h3 align="center">A passionate Supply chain & Data Analytics Enthusiast from India, doing masters in Germany.</h3>
-(img align="right" alt="Coding" width="400" src="(https://dribbble.com/shots/5718192-Animated-Icons-Textile-Supply-Chain/attachments/11017307?mode=media)](https://tejasp1197.io)">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasp1197&label=Profile%20views&color=0e75b6&style=flat" alt="tejasp1197" /> </p>
