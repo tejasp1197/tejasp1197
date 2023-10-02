@@ -1,4 +1,4 @@
-[![MasterHead](https://chools.in/wp-content/uploads/5_1.gif)](https://tejasp1197.io)
+[![MasterHead](https://github.com/tejasp1197/tejasp1197/assets/140860360/a78fd5e7-9ae4-4c81-8ff6-99ea0b4378ef)](https://tejasp1197.io)
 <h1 align="center"> Hallo 👋, I'm Tejas Patil</h1>
 <h3 align="center">A passionate Supply chain & Data Analytics Enthusiast from India, doing masters in Germany.</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
