@@ -1,4 +1,4 @@
-
+[![MasterHead](https://itchronicles.com/wp-content/uploads/2023/08/blockchain-Supply-Chain-1024x683.jpg.webp](https://tejasp1197.io))
 <h1 align="center"> Hallo 👋, I'm Tejas Patil</h1>
 <h3 align="center">A passionate Supply chain & Data Analytics Enthusiast from India, doing masters in Germany.</h3>
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
