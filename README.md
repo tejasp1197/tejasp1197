@@ -12,11 +12,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thetejaspatil/](https://www.linkedin.com/in/thetejaspatil/)
 
-- #### Technical Skills: Power-BI, PowerApps, Sharepoint, SQL, MS-Excel
+- Technical Skills: **Power-BI, PowerApps, Sharepoint, SQL, MS-Excel**
 
 ## Education					       		
-- M.B.A., Operational Excellence	| Hochschule Hof university of applied sciences, Germany (_October 2021 to Present_)	 			        		
-- B.E., Mechanical Engineering | The University of Mumbai, India. (_July 2019_)
+- **M.B.A., Operational Excellence**	| Hochschule Hof university of applied sciences, Germany (_October 2021 to Present_)	 			        		
+- **B.E., Mechanical Engineering** | The University of Mumbai, India. (_July 2019_)
 
 
 <h3 align="left">Connect with me:</h3>
