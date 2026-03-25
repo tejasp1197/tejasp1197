@@ -29,8 +29,7 @@
   2. HR Data analytics report: [github HR dept. analytics] (https://tejasp1197.github.io/HR_dataanalytics_PBreport2023/)
   3. Sales dept. PowerBI report: [github Sales data analytics] (https://tejasp1197.github.io/Sales_PBreport_2023/)
      
-- **Data Management Project as a Part of Master Thesis** | Currently working on data management & visualisation Project with Volkswagen Nutzfahrzeuge where I am working on Sharepoint, PowerApps & PowerBI.
-- **SQL Projects** | 
+- **Data Management Project as a Part of Master Thesis** | Currently working on data management & visualisation Project with Volkswagen Nutzfahrzeuge where I am working on Sharepoint, PowerApps & PowerBI. 
 
 
 <h3 align="left">Connect with me:</h3>
