@@ -1,6 +1,6 @@
   [![MasterHead](https://github.com/tejasp1197/tejasp1197/assets/140860360/3534cc2f-49b8-4ac4-bf75-9bad8294ab19)](https://tejasp1197.io)
 <h1 align="center"> Hallo 👋, I'm Tejas Patil</h1>
-<h3 align="center"> A passionate Supply chain and data analytics Enthusiast from India, persuing Master in Germany.</h3>
+<h3 align="center"> A passionate Supply chain and data analytics Enthusiast, Living in Hannover, Germany.</h3>
 <img align="right" alt="Coding" width="500" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasp1197&label=Profile%20views&color=0e75b6&style=flat" alt="tejasp1197" /> </p>
@@ -20,8 +20,8 @@
 
 
 ## Education 👨🏼‍🎓					       		
-- **M.B.A., Operational Excellence**	| Hochschule Hof university of applied sciences, Germany (_October 2021 to Present_)	 			        		
-- **B.E., Mechanical Engineering** | The University of Mumbai, India. (_July 2019_)
+- **M.B.A., Operational Excellence**	| Hochschule Hof university of applied sciences, Germany (_2021 to 2024_)	 			        		
+- **B.E., Mechanical Engineering** | The University of Mumbai, India. (_ 2015 To 2019_)
 
 ## Projects 👨🏼‍💻					       		
 - **Data analysis Projects on PowerBI**	| I have done 3 Projects, 2 business departments: Sales, HR & 1 for Hospitality sector.
